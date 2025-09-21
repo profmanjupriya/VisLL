@@ -26,7 +26,7 @@ add_subdirectory(extern/glfw)
 3.	Re-build the project:
 	•	Go to menu → Build → Build Project
 
-Mac Setup
+## Mac Setup
 
 Make sure Homebrew is installed.
 	1.	Open CLion’s built-in terminal and run:
